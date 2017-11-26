@@ -1,5 +1,5 @@
 # Ionic-2-Social-Share
-Full Tutorial at Ionic 2 Beginner : Add Social Sharing To Your Ionic 2 App
+Full Tutorial at http://pointdeveloper.com/add-social-sharing-to-your-ionic-2-app/
 <br/>
 
 [![donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG_global.gif)](https://www.paypal.me/prantikv)
